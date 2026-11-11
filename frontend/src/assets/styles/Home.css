@@ -1,0 +1,22 @@
+.tarjeta-link {
+    height: 280px;
+    width: 100%;
+    border-radius: 50px;
+    overflow: hidden;
+
+    margin-bottom: 10px;
+}
+
+.soporte {
+    box-shadow: 7px 7px 0px 0px rgba(27, 200, 53, 0.75);
+    background: linear-gradient(rgba(34, 174, 34, 0.861), rgba(0, 255, 0, 0.589)), url("../imagenes/soporte.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.seguridad {
+    box-shadow: 7px 7px 0px 0px rgba(50, 50, 200, 0.75);
+    background: linear-gradient(rgba(48, 48, 163, 0.6), rgba(148, 148, 233, 0.763)), url("../imagenes/seguridad.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

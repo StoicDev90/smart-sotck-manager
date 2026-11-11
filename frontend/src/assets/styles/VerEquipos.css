@@ -1,0 +1,36 @@
+.estilo {
+    font-size: 0.5rem;
+}
+.acciones {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    padding: 0 !important;
+}
+.acciones span {
+    line-height: 1;
+}
+
+.icono {
+    font-size: 1.2rem;
+}
+.boton-anadir {
+    width: 40px;
+    height: 40px;
+    border: 0px;
+    border-radius: 40px;
+    background-color: blue;
+    font-size: large;
+    margin-left: 20px;
+}
+
+.tamano {
+    font-size: 0.7rem;
+}
+.bi-plus {
+    font-size: 1.5rem;
+    color: white;
+}
+.alto {
+    height: 400px;
+}

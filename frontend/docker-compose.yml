@@ -1,0 +1,9 @@
+version: '3'
+services:
+  react:
+    container_name: ${CONTAINER_NAME} 
+    build: .
+    volumes:
+      - ${VOLUME_CODE}:/app
+    ports:
+      - ${PORT}:3000

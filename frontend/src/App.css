@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+
+  min-height: 10vh;
+}
+
+.logo {
+  width: 40%;
+  height: 40%;
+}
+
+.boton-menu {
+  color: #002142;
+  background-color: #00c4e3;
+}
+
+.item{
+  font-family: "EncodeSans";
+  text-decoration: none !important;
+  margin-left: 100px;
+  color: #e7e5e9;
+  font-size: 1.2rem;
+}
+.dpdwn-item {
+  font-family: "EncodeSans";
+  text-decoration: none !important;
+  color: #e7e5e9;
+  font-size: 1.2rem;
+  transition: background-color 0.3s;
+}
+.dpdwn-item:hover {
+  background-color:#00c4e3;
+}
+
+/* #00c4e3
+   #002142*/
+
+.item:hover {
+  color: #d5d5d5;
+}
+
+.nav-color {
+  background: linear-gradient(90deg, #002142 2%, #00c4e3, #00aae4);
+  box-shadow: 0px 5px 0px 0px rgba(70, 0, 247, 0.2);
+}
+
+.color {
+  background-color: #00aae4 !important;
+}
+
+.font-face-es {
+  font-family: "EncodeSans";
+ }
+
+
+ 
